@@ -1,3 +1,17 @@
+
+
 body{
     background: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    display: flex;
+    
+    
+}
+li{
+   display: inline;
+   padding: 30px 30px;
 }
