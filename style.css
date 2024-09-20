@@ -143,6 +143,18 @@ img{
 .Container-Projects .content-1 ul li{
     font-size: 15px;
 }
+footer{
+    height: 600px;
+    width: 100%;
+    background-color: #161616;
+}
 footer #Contact h1{
     color: orangered;
+}
+footer #Contact .col-box{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 100px;
 }
