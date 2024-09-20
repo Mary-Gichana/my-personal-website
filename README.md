@@ -31,7 +31,7 @@ Follow the steps below to run the project on your local machine:
 3. Navigate into the project folder
    "cd my-personal-website"
 
-# Contibuting
+## Contibuting
   If you have any suggestions or any issues, feel free to reaching out by submitting pull request.
 1. Fork the project
 2. Create a barnch
