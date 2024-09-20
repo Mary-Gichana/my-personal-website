@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 body{
     background-color: white;
@@ -42,12 +43,12 @@ img{
     margin: 20px 40px;
     
 }
-a{
+#navbar li a{
     color: white;
     text-decoration: none;
     font-size: 14px;
 }
-a:hover{
+#navbar li a:hover{
     color: orangered;
     text-decoration: underline;
 }   
@@ -73,15 +74,17 @@ a:hover{
 .Container-Home .Container-1 h1 span{
     color: orangered;
 }
-.Container-Home .Container-1 button{
-    padding: 10px 10px;
+.Container-Home .Container-1 .btn{
+    padding: 10px 20px;
     margin-left: 0;
     border: 5px solid orangered;
     border-radius: 10px;
     background-color: white;
-    
+    color: black;
+    text-decoration: none;
 }
-.Container-Home .Container-1 button:hover{
+
+ .Container-Home .Container-1 .btn:hover{
     background-color: orangered;
     transition:  ease-in-out;
 }
