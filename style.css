@@ -16,7 +16,7 @@ img{
 }
 #header{
     position: fixed;
-    background-color: black;
+    background-color: #161616;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -87,7 +87,7 @@ a:hover{
 }
 
 .Container-About{
-    background-color: black;
+    background-color: #161616;
     width: 100%;
     min-height: 100vh;
     color: white;
