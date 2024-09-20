@@ -143,3 +143,6 @@ img{
 .Container-Projects .content-1 ul li{
     font-size: 15px;
 }
+footer #Contact h1{
+    color: orangered;
+}
