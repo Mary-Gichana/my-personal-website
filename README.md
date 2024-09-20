@@ -35,8 +35,9 @@ Follow the steps below to run the project on your local machine:
 
 1. Fork the repository: Click on the "Fork" button at the top right corner of this repository's page.
 2. Clone the repository: Once forked, copy the repository link and run the following command in your terminal:
-
+   ```bash
    "git clone git@github.com:Mary-Gichana/my-personal-website.git"
+    
 3. Navigate into the project folder
    "cd my-personal-website"
 
