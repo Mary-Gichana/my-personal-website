@@ -58,7 +58,7 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10rem;
+    gap: 10px;
     width: 100%;
     min-height: 100vh;
 }
@@ -144,7 +144,7 @@ img{
     font-size: 15px;
 }
 footer{
-    height: 600px;
+    min-height: 100vh;
     width: 100%;
     background-color: #161616;
 }
